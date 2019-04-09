@@ -130,7 +130,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
@@ -192,7 +192,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "34",
+            "imageSize": "59",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -241,8 +241,8 @@
           "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
@@ -348,7 +348,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
