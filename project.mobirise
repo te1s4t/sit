@@ -17,7 +17,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 13,
+    "uniqCompNum": 15,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -273,6 +273,19 @@
           "_anchor": "content4-3"
         },
         {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Заголовок",
+          "meta": "Описание",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e"
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -338,12 +351,25 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-d"
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showName": true,
             "showBio": false,
             "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
