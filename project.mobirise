@@ -138,7 +138,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-15-960x620.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -161,7 +161,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-21-960x626.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -238,7 +238,7 @@
           "_afterNavbarItem": ".mbr-slider",
           "_params": {
             "autoplay": true,
-            "showBullets": true,
+            "showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-6-665x960.jpg",
