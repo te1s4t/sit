@@ -17,7 +17,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 17,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -50,7 +50,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0"
           },
           "title": "la boda",
           "text": "небольшое описание",
@@ -130,15 +130,27 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": false,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
             "bgColor": "#ffffff",
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-21-960x626.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-15-960x620.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -149,7 +161,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-13-960x623.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -158,17 +170,6 @@
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
                 "overlay": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-21-960x626.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               }
             ]
           },
@@ -234,87 +235,77 @@
           "_anchor": "header3-e"
         },
         {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
           "_params": {
-            "autoplay": true,
             "showBullets": false,
-            "slides": [
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-6-665x960.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-18-649x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-18-649x960-576x864.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-9-664x960.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-22-666x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-22-666x960-638x957.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-26-643x960.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "image": "@PROJECT_PATH@/assets/images/img-2653-18-04-19-07-11-641x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2653-18-04-19-07-11-641x960-640x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-19-640x960.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-19-640x960-640x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-20-666x960.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "image": "@PROJECT_PATH@/assets/images/img-2657-18-04-19-07-11-641x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2657-18-04-19-07-11-641x960-640x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-2653-18-04-19-07-10-641x960.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-11-664x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-11-664x960-639x959.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-8-665x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-8-665x960-640x960.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-24-646x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fullsizerender-18-04-19-07-10-24-646x960-639x959.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
               }
             ]
           },
-          "articleLayout": true,
+          "articleLayout": false,
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider2",
-          "_anchor": "slider2-g"
+          "_name": "gallery1",
+          "_anchor": "gallery1-f"
         },
         {
           "_params": {
