@@ -4,11 +4,31 @@
 #header1-0 P {
   color: #ffffff;
 }
+#msg-box4-1 .lead P {
+  text-align: left;
+  font-size: 14px;
+}
+#msg-box4-1 .mbr-section-title {
+  text-align: left;
+}
 #slider-b H2 {
   color: #d8f1d5;
 }
-#social-buttons2-e .mbr-section-title {
-  color: #ffffff;
+#slider-g H2 {
+  color: #d8f1d5;
+}
+#slider-e H2 {
+  color: #d8f1d5;
+}
+#content4-3 H4 {
+  font-size: 16px;
+}
+#content4-3 P {
+  text-align: left;
+  font-size: 14px;
+}
+#form1-7 .mbr-section-title {
+  color: #000000;
 }
 #header1-0 H1 {
   color: #ffffff;
