@@ -17,7 +17,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
@@ -657,6 +657,33 @@
           "_anchor": "form1-7",
           "_styles": {
             ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#d8f1d5",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Почта: mariannawedding@gmail.com<br>Вайбер: +380996081114<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h",
+          "_styles": {
+            "P": {
+              "text-align": "center",
               "color": "#000000"
             }
           }
