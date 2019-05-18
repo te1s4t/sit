@@ -1,8 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-
-
 
 
 body {
@@ -28,7 +25,7 @@ body {
   font-size: 8rem;
 }
 .display-2 {
-  font-family: 'Amatic SC', handwriting;
+  font-family: '7978';
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -42,11 +39,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Amatic SC', handwriting;
-  font-size: 1.5rem;
+  font-family: '7978';
+  font-size: 2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 .display-7 {
   font-family: 'Alegreya Sans', sans-serif;
@@ -77,9 +74,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1415,7 +1412,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rqbdfBqmA7 {
-  background-image: url("../../../assets/images/7c2e1403-5fad-49e0-b137-683489f678d3-1-1242x816.jpg");
+  background-image: url("../../../assets/images/img-5636-2000x1334.jpg");
 }
 .cid-rqbdfBqmA7 H1 {
   color: #ffffff;
@@ -1450,45 +1447,6 @@ body {
   text-align: left;
 }
 .cid-rqtkfqkAnr H1 {
-  color: #232323;
-  text-align: left;
-}
-.cid-rqtfTISMxK {
-  background-image: url("../../../assets/images/viber-image-2019-05-14-21.18.38-1242x816.jpg");
-}
-.cid-rqtfTISMxK H1 {
-  color: #ffffff;
-}
-.cid-rqtfTISMxK .mbr-text,
-.cid-rqtfTISMxK .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-rqbuppQwjd {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-color: #f9ebec;
-}
-@media (min-width: 992px) {
-  .cid-rqbuppQwjd .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rqbuppQwjd .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rqbuppQwjd .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rqbuppQwjd .mbr-text,
-.cid-rqbuppQwjd .mbr-section-btn {
-  color: #232323;
-  text-align: left;
-}
-.cid-rqbuppQwjd H1 {
   color: #232323;
   text-align: left;
 }
